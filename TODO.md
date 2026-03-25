@@ -1,0 +1,1 @@
+# TODO: Fix Image Not Displaying\n\n- [ ] Step 1: Create TODO.md and edit Final_css/styles.css to fix empty background-image URL in .main\n- [ ] Step 2: Test by previewing Final_css/index.html\n- [ ] Step 3: Mark complete
